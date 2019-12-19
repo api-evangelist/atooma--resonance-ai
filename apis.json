@@ -1,0 +1,51 @@
+{
+    "name": "Atooma - Resonance AI",
+    "description": "Resonance AI makes devices use IoE and big data in order to forecast user problems, and solve them with personalized automation and suggestions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28415-www-resonance-ai-com.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "artificial intelligence",
+        "have api",
+        "machine learning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/atooma--resonance-ai\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Atooma - Resonance AI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28415-www-resonance-ai-com.jpg",
+            "humanURL": "http:\/\/www.resonance-ai.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/atooma--resonance-ai-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "info@resonance-ai.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@resonance-ai.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ResonanceAI"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.resonance-ai.com"
+        }
+    ]
+}
